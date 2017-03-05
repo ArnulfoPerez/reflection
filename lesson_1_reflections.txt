@@ -1,0 +1,33 @@
+hola mundo
+2017hola mundo
+2017&!@#$%^&*()_+-=[{]};:'"\\|&!@#$%^&*()_+-=[{]};:'"\\[;:
+2017/02/10
+batallando con la configuruacion del teclado
+fighting with the keyboard configuration
+
+]\|'[{-_=+,.////
+:|
+how using diff helps debug problems?
+The problem is on the difference
+
+how keeping version history makes me a better programmer?
+
+waste less time and keep track of thinking process
+
+pros and cons of manual and autoamted?
+
+manual can be always meaningful but there is chance of loosing data or forgetting to backup
+automated is good but some commits might be broken
+
+single file vs repository commits?
+
+in some situations like google where there is huge amont of files mostly not related it is wasteful to commit everything
+
+in a project it is better to keep the files in sync
+
+how to use git log and git diff
+
+git log gives a code for the commits identifies by date and comments
+diff helsp find the exact lines of code that have changed
+
+having a previous commit can make changes safer becuase one can go back to a known state

@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+a directory with metada is created for git to keep track of changes
+
+.git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area provides control over what is included in each commit
