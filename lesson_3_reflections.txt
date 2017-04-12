@@ -1,1 +1,6 @@
 How is the security of this arrengment?
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+When working on multiple computers or working on a team
+As a way to keep a back up
